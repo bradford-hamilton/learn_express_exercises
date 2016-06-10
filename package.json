@@ -1,0 +1,11 @@
+{
+  "name": "learn_express",
+  "version": "1.0.0",
+  "description": "gSchool learn_express exercises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradford Lamson-Scribner",
+  "license": "MIT"
+}
